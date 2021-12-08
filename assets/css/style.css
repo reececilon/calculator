@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to bottom right, #210C1A, #242E32) no-repeat center center fixed;
+}
+
+#calculator {
+    width: 25rem;
+    height: 35rem;
+    background-color: black;
+    color: white;
+}
+
+#equation {
+    background-color: rgba(33, 15, 28, 0.5);
+    height: 10%;
+    border-bottom: solid 1px black;
+}
+
+#answer {
+    background-color: white;
+    height: 10%;
+}
